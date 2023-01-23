@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### I am a statistics major student at Middle East Tecnhical University and looking forward to 
-#### learn about Machine Learning and be creative with Data Visualization 🦕 🦩 🐪
+#### I am a statistics major student at Middle East Tecnhical University and looking forward to learn about Machine Learning and be creative with Data Visualization 🦕 🦩 🐪
 
  - 🍿 I’m currently on my journey to learn R and GitHub usage 
  - 📊 I’m currently learning about basic data science tools 
